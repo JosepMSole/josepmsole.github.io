@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.disturbingstories.app",
+      "sha256_cert_fingerprints": [
+        "18:37:C3:0E:5D:67:4C:5B:B1:26:FA:C0:B8:01:A5:5A:38:AB:62:F9:97:53:66:45:F8:EC:FF:14:8C:98:30:27"
+      ]
+    }
+  }
+]
